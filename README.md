@@ -1,4 +1,4 @@
-# # Employee Tracker ![license](https://img.shields.io/badge/license-MIT-green)
+ # Employee Tracker ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Table of Contents
   * [Description](#description)
