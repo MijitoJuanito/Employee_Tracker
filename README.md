@@ -4,6 +4,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Executing-Program](###Executing-Program)
+  * [Demonstration](###Demonstration)
   * [Questions](#questions)
   * [License](#license)
   
@@ -26,6 +27,10 @@
 ```
    npm start
 ```
+
+### Demonstration
+![Employee Demo](./Assets/Employee.jpg)
+[Employee Walkthrough Video](https://drive.google.com/file/d/1DEG5lEdz4BKZotUbB1nWgF0TlN1PZ4RW/view)
 
 
 
